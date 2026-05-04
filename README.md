@@ -98,4 +98,4 @@ multi-pdf-rag/
 
 ---
 
-Built by Siya Kathpal | Undergraduate ML Engineer
+Built by Siya Kathpal | Undergraduate AI Engineer
